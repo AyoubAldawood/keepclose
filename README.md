@@ -4,7 +4,9 @@ A wellbeing-oriented mobile app concept designed to support international studen
 
 The project covered user research, requirements derivation, high-fidelity prototyping, and scenario-based evaluation. It was developed as my dissertation for my "BSc Computer Science (Software Engineering)" degree at Newcastle University, supervised by Dr Nick Taylor.
 
-![keepclose Contacts screen](images/contacts.png)
+<p align="center">
+  <img src="images/contacts.png" alt="keepclose Contacts screen" width="320">
+</p>
 
 **Figure 1.** The Contacts screen showing contacts grouped into *Attention Needed* and *On Track*. Each row shows the contact's avatar, days since last call, and a one-word status alongside the contact's local time.
 
@@ -37,7 +39,9 @@ Key design moves:
 - **Calm visual language.** Muted palette, generous spacing, neutral microcopy throughout.
 - **Two-tap principle.** Any primary action is reachable within two taps from app launch.
 
-![Quick Call Launch sheet](images/quick-call-launch.png)
+<p align="center">
+  <img src="images/quick-call-launch.png" alt="Quick Call Launch sheet" width="320">
+</p>
 
 **Figure 2.** The Quick Call Launch modal sheet, summoned from Contact Detail. A single tap launches the user's preferred calling app — reinforcing keepclose as a layer over existing calling tools rather than a replacement for them.
 

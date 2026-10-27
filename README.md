@@ -6,7 +6,7 @@
 
 **[Read the case study (PDF)](Ayoub-Aldawood-keepclose-Case-Study.pdf)**
 
-The case study summarizes my 79-page BSc dissertation at Newcastle University (2026), titled “Supporting Homesickness and Loneliness in International Students: Designing a Wellbeing-Maintenance Calling Tool”, supervised by Dr. Nick Taylor. The full dissertation is available on request.
+> The case study summarizes my 79-page BSc dissertation at Newcastle University (2026), titled “Supporting Homesickness and Loneliness in International Students: Designing a Wellbeing-Maintenance Calling Tool”, supervised by Dr. Nick Taylor. The full dissertation is available on request.
 
 ![Three keepclose screens: Contacts, Contact Detail for Mum, and the sheet for choosing a calling app](images/cover.png)
 
